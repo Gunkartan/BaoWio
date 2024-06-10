@@ -1,1 +1,1 @@
-# BaoWio
+Bao Wio is a mobile application that aids Thai diabetic patients in controlling their sugar intake by suggesting menus that are safe to eat and even how to make a certain menu safer and still have a good taste by changing some ingredients. Users can also take a picture of food or nutrition on a packaging to let Bao Wio calculate whether or not they should eat it. If so, how much more can they do so in the day?
